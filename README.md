@@ -13,3 +13,7 @@ $sudo apt install python3-venv
  
  ### Deactivate
  $deactivate
+
+
+$ export FLASK_APP=hello.py
+$ export FLASK_ENV=development
