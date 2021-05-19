@@ -8,8 +8,8 @@ $sudo apt install python3-venv
 
  $python3 -m venv ENV
  
- #### Activate
+ ### Activate
  $source env/bin/activate
  
- #### Deactivate
+ ### Deactivate
  $deactivate
