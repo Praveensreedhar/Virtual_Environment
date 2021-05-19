@@ -16,4 +16,5 @@ $sudo apt install python3-venv
 
 
 $ export FLASK_APP=hello.py
+
 $ export FLASK_ENV=development
