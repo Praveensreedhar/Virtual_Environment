@@ -21,3 +21,18 @@ $ export FLASK_ENV=development
 
 ### Flask Run
 flask run --host=0.0.0.0
+
+### PyCharm Install
+$ sudo snap install pycharm-community --classic
+OR
+$ sudo snap install pycharm-professional --classic
+OR
+$ sudo snap install pycharm-educational --classic
+
+####You can start the PyCharm using the below command: 
+$ pycharm-community
+OR
+$ pycharm-professional
+OR
+$ pycharm-educational
+
