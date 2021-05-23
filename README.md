@@ -18,3 +18,6 @@ $sudo apt install python3-venv
 $ export FLASK_APP=hello.py
 
 $ export FLASK_ENV=development
+
+### Flask Run
+flask run --host=0.0.0.0
